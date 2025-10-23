@@ -1,0 +1,29 @@
+Listings shape: (4419, 79)
+Calendar shape: (1612937, 7)
+Price describe:
+count     3506.000000
+mean       769.980605
+std       4848.036564
+min         26.000000
+25%        119.000000
+50%        206.000000
+75%        315.000000
+90%        472.000000
+95%        651.500000
+max      50000.000000
+Name: price, dtype: float64
+Monthly occupancy (fraction booked):
+date
+1     0.338
+2     0.335
+3     0.363
+4     0.409
+5     0.381
+6     0.423
+7     0.490
+8     0.486
+9     0.570
+10    0.676
+11    0.453
+12    0.358
+Name: booked, dtype: float64
