@@ -31,7 +31,7 @@ Build a data-driven model that recommends optimal nightly prices for Airbnb list
 
 ## 🧩 EDA Visuals
 
-All charts are generated via `eda_quick.py`.
+All charts are generated via `eda.py`.
 
 | Visualization | File |
 |:--------------|:-----|
